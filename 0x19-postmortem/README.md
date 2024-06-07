@@ -1,7 +1,9 @@
-## Postmortem Report
+# Postmortem Report
+
+## Error 503: Service Unavailable
+<img src="./Postmortem report.jpg">
 
 ### Issue Summary
-
 **Duration of Outage:**  
 - Start Time: June 5, 2024, 10:00 AM (UTC)  
 - End Time: June 5, 2024, 12:30 PM (UTC)  
